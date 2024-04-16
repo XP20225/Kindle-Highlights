@@ -1,0 +1,400 @@
+Nudge: The Final Edition
+Richard H. Thaler and Cass R Sunstein
+
+A choice architect has the responsibility for organizing the context in which people make decisions.
+LOCATION: 435
+
+A nudge, as we will use the term, is any aspect of the choice architecture that alters people’s behavior in a predictable way without forbidding any options or significantly changing their economic incentives.
+LOCATION: 493
+
+Econs and Humans: Why Nudges Can Help
+LOCATION: 503
+
+Homo economicus, or economic man—the notion that each of us thinks and chooses unfailingly well,
+LOCATION: 506
+
+We provide many examples of the use of default options, and we will see that defaults are often quite powerful. If private companies or public officials favor one set of outcomes, they can greatly influence people by choosing it as the default.
+LOCATION: 540
+
+By properly deploying both incentives and nudges, we can improve our ability to improve people’s lives, and help solve many of society’s major problems. And we can do so while still insisting on everyone’s freedom to choose.
+LOCATION: 552
+
+A False Assumption and Two Misconceptions
+LOCATION: 554
+
+Generally, people make good choices in contexts in which they have lots of experience, good information, and prompt feedback—say, choosing among familiar ice cream flavors. People know whether they like chocolate, vanilla, coffee, or something else.
+LOCATION: 568
+
+Choice Architecture in Action
+LOCATION: 606
+
+A New Path
+LOCATION: 641
+
+Part I
+LOCATION: 664
+
+HUMANS AND ECONS
+LOCATION: 665
+
+Biases and Blunders
+LOCATION: 667
+
+that our understanding of human behavior can be improved by appreciating how and when people systematically go wrong.
+LOCATION: 689
+
+Rules of Thumb
+LOCATION: 698
+
+Their early work identified three common rules of thumb or heuristics—anchoring, availability, and representativeness—and the biases that are associated with each.
+LOCATION: 704
+
+Anchoring
+LOCATION: 707
+
+This process is called “anchoring and adjustment.” You start with some anchor, a number you know, and adjust in the direction you think is appropriate.
+LOCATION: 714
+
+The bias occurs because the adjustments are typically insufficient. Experiments repeatedly show that in problems similar to our example, people from Chicago are likely to make a high guess (based on their high anchor), while those from Green Bay guess low (based on their low anchor).
+LOCATION: 715
+
+This is connected with the behavioral phenomenon of reactance: when people feel ordered around, they might get mad and do the opposite of what is being ordered (or even suggested).
+LOCATION: 744
+
+Availability
+LOCATION: 751
+
+A quick quiz: In the United States, are more gun deaths caused by homicides or suicides? In answering questions of this kind, most people use what is called the availability heuristic. They assess the likelihood of risks by asking how readily examples come to mind.
+LOCATION: 751
+
+So, too, recent events have a greater impact on our behavior, and on our fears, than earlier ones.
+LOCATION: 760
+
+When availability bias is at work, both private and public decisions may be improved if judgments can be nudged back in the direction of true probabilities. A good way to get people to take more precautions about a potential hazard is to remind them of a related incident in which things went wrong; a good way to increase people’s confidence is to remind them of a similar situation in which everything worked out for the best.
+LOCATION: 771
+
+Representativeness
+LOCATION: 775
+
+The third of the original three heuristics bears an unwieldy name: representativeness. Think of it as the similarity heuristic. The idea is that when asked to judge how likely it is that A belongs to category B, people answer by asking themselves how similar A is to their image or stereotype of B (that is, how “representative” A is of B). Like the other two heuristics we have discussed, this one is used because it often works. Stereotypes are sometimes right!
+LOCATION: 775
+
+Like the availability heuristic, the representativeness heuristic often works well, but it can lead to major errors.
+LOCATION: 791
+
+Optimism and Overconfidence
+LOCATION: 792
+
+People are unrealistically optimistic even when the stakes are high. In the United States, about 40 to 50 percent of marriages end in divorce, and this is a statistic most people have heard. (The precise number is hard to nail down.) But around the time of the ceremony, almost all couples have been found to believe that there is approximately a zero percent chance that their marriage will end in divorce—even those who have already been divorced!9 (Second marriage, Samuel Johnson once quipped, “is the triumph of hope over experience.”) A similar point applies to entrepreneurs starting new businesses, in which the failure rate is at least 50 percent. In one survey of people starting new businesses (typically small businesses, such as contracting firms, restaurants, or salons), respondents were asked two questions: (a) What do you think is the chance of success for a typical business like yours? (b) What is your chance of success? The most common answers to these questions were 50 percent and 90 percent, respectively, and many said 100 percent in response to the second question.10
+LOCATION: 805
+
+Unrealistic optimism is a pervasive feature of human life; it characterizes most people in most social categories.
+LOCATION: 820
+
+If people are running risks because of unrealistic optimism, they might be able to benefit from a nudge. In fact, we have already mentioned one possibility: if people are reminded of a bad event, they may not continue to be so optimistic.
+LOCATION: 823
+
+Gains and Losses
+LOCATION: 825
+
+People hate losses. In more technical language, people are “loss averse.” Roughly speaking, the prospect of losing something makes you twice as miserable as the prospect of gaining the same thing makes you happy.
+LOCATION: 826
+
+Loss aversion has a lot of relevance to public policy. If you want to discourage the use of plastic bags, should you give people a small amount of money for bringing their own reusable bag, or should you ask them to pay the same small amount for a plastic bag? The evidence suggests that the former approach has no effect at all, but that the latter works; it significantly decreases use of plastic bags. People don’t want to lose money, even if the amount is trivial.13 (Environmentalists, please remember this point.)
+LOCATION: 842
+
+Status Quo Bias
+LOCATION: 846
+
+For lots of reasons, people have a general tendency to stick with their current situation. One reason is loss aversion; giving up what we have is painful. But the phenomenon has multiple causes. William Samuelson and Richard Zeckhauser have dubbed this behavior status quo bias,
+LOCATION: 847
+
+Those who are in charge of circulation know that when renewal is automatic, and particularly when people have to make a phone call to cancel, the likelihood of renewal is much higher than it is when people have to indicate that they actually want to continue to receive the magazine.
+LOCATION: 870
+
+The combination of loss aversion and mindless choosing is one reason why if an option is designated as the default, it will usually (but not always!) attract a large market share. Default options thus act as powerful nudges. For this and other reasons, setting the best possible defaults is a theme we explore often in this book.
+LOCATION: 872
+
+Framing
+LOCATION: 875
+
+The idea is that choices depend, in part, on the way in which problems are described. The point matters a great deal for public policy. Energy conservation is now rightly receiving a lot of attention, so consider the following information campaigns: (a) If you use energy conservation methods, you will save $350 per year; (b) If you do not use energy conservation methods, you will lose $350 per year. There is evidence that information campaign (b), framed in terms of loss, might be more effective than information campaign (a). If the government wants to encourage energy conservation, option (b) looks like a stronger nudge.
+LOCATION: 892
+
+This implies that frames can be powerful nudges, and must be selected with care and caution.
+LOCATION: 899
+
+How We Think: Two Systems
+LOCATION: 900
+
+The title of the book cleverly states the main idea, to which we devote the rest of this chapter. It is useful to imagine the workings of the brain as consisting of two components or systems. One is fast and intuitive; the other is slow and reflective.
+LOCATION: 911
+
+We call them the Automatic System and the Reflective System.
+LOCATION: 914
+
+Table 1.1. Two Cognitive Systems AUTOMATIC SYSTEM REFLECTIVE SYSTEM Uncontrolled Controlled Effortless Effortful Associative Deductive Fast Slow Unconscious Self-aware Skilled Rule-following
+LOCATION: 920
+
+One way to think about all this is that the Automatic System is your gut reaction and the Reflective System is your conscious thought.
+LOCATION: 947
+
+The Automatic System can be trained with lots of repetition—but such training takes a great deal of time and effort. One reason why teenagers are such risky drivers is that their Automatic Systems have not had much practice, and using the Reflective System is much slower.
+LOCATION: 954
+
+If people can rely more on their Automatic Systems without getting into terrible trouble, their lives should be easier, better, and longer. Put another way, let’s design policies for Homer economicus.
+NOTE: The idea of making decision without having to think
+LOCATION: 974
+
+So What?
+LOCATION: 977
+
+Resisting Temptation
+LOCATION: 996
+
+Most people realize that temptation exists, and they take steps to overcome it.
+LOCATION: 1026
+
+Thaler removing the cashews and Ulysses tying himself to the mast are examples of commitment strategies. (A reminder: Calling this the Final Edition of this book is a commitment strategy. Really.) Such strategies work well if the risk of submitting to temptation can be anticipated, and removing the temptation is feasible.
+LOCATION: 1030
+
+Some parts of the brain get tempted, and other parts are prepared to enable us to resist temptation by assessing how we should react to it.1 Sometimes the two parts of the brain can be in severe conflict—a kind of battle that one or the other is bound to lose.
+LOCATION: 1046
+
+Self-Control Strategies
+LOCATION: 1050
+
+Since we are at least partly aware of our weaknesses, we sometimes take steps to engage outside help. We make lists to help us remember what to buy (and not buy) at the grocery store. We buy an alarm clock to help us get up in the morning. We ask friends to stop us from having dessert or to fortify our efforts to quit smoking. We buy cars that have all sorts of nudges, warning us when we are in a dangerous situation.
+LOCATION: 1051
+
+But even when we’re on our way to making good choices, competitive markets find ways to get us to overcome our last shred of resistance to bad ones. At O’Hare Airport in Chicago, two food vendors compete across the aisle from each other. One sells fruit, yogurt, and other healthy foods. The other sells Cinnabons, tempting cinnamon buns that have a whopping 880 calories and 37 grams of fat. Your Planner may have set the course for the yogurt and fruit stand, but the Cinnabon outlet intentionally blasts the aromas from their ovens directly into the walkway in front of the store. Care to guess which of the two stores always has the longer line?
+LOCATION: 1135
+
+Mental Accounting
+LOCATION: 1139
+
+Alarm clocks and Christmas clubs are external devices people use to solve their self-control problems. Another way to approach these problems is to adopt internal control systems, otherwise known as mental accounting. Mental accounting is the system (sometimes implicit) that households use to evaluate, regulate, and process their home budget. Almost all of us use mental accounts,
+LOCATION: 1140
+
+The concept is beautifully illustrated by an exchange between the actors Gene Hackman and Dustin Hoffman that you can find online.3 Hackman and Hoffman were friends back in their starving artist days, and Hackman tells the story of visiting Hoffman’s apartment and having his host ask him for a loan. Hackman agreed to the loan, but then they went into Hoffman’s kitchen, where several mason jars were lined up on the counter, some stuffed with money. One jar was labeled “rent,” another “entertainment,” and so forth. Hackman asked why, if Hoffman had so much money in jars, he would possibly need a loan, whereupon Hoffman pointed to the food jar, which was empty.fn3
+LOCATION: 1143
+
+For each of us, using mental accounts can be extremely valuable. They make life both more pleasurable and more secure. Many of us could benefit from both a near sacrosanct “rainy day” account for emergencies and an “entertainment and fun” account. Understanding mental accounts would also improve public policy. Governments can benefit from understanding the concept of mental accounting. As we will see, if we want to encourage savings, it will be important to direct the increased savings into a mental (or real) account where spending it will not be too big a temptation.
+LOCATION: 1183
+
+Following the Herd
+LOCATION: 1188
+
+Humans, on the other hand, are often influenced by other Humans, even when they shouldn’t be.
+LOCATION: 1193
+
+Sometimes massive social changes, in markets and politics alike, start with a small and even serendipitous social nudge.
+LOCATION: 1194
+
+In this chapter, we try to understand how and why social influences work. An understanding of those influences is important to choice architects for two reasons. First, most people learn from others. This is usually good, of course. Learning from others is how individuals and societies develop.
+LOCATION: 1198
+
+But many of our biggest misconceptions also come from others. The problem is that what we learn from such interactions may not actually be true. When social influences have caused people to have false or biased beliefs, then some nudging may help. A second reason this topic is important for our purposes is that one of the most effective ways to nudge (for good or evil) is via social influence.
+LOCATION: 1200
+
+Social influences come in two basic categories. The first involves information. If many people do something or think something, their actions and their thoughts convey information about what is best for you to do or think. If people are picking up after their dogs, buckling their seatbelts, driving under the speed limit, saving for retirement, treating people equally, or wearing masks, you might think that is the right thing to do. The second involves peer pressure. If you care about what other people think about you (perhaps in the mistaken belief that they are paying some attention to what you are doing—see below), then you might go along with the crowd to avoid their wrath or curry their favor. In some places during the COVID-19 pandemic, you’d get a cold stare or worse, if you weren’t wearing a mask in a public place—and in some places, you’d get a cold stare or worse if you were wearing a mask.
+LOCATION: 1209
+
+Cultural Change, Political Change, and Unpredictability
+LOCATION: 1313
+
+This is illustrated by a brilliant experiment involving music downloads conducted by Matthew Salganik, Peter Dodds, and Duncan Watts. For their study, the researchers created an artificial music market, involving thousands of participants who were visitors to a website popular with young people.16 The participants were given a long list of previously unknown songs from obscure bands.
+LOCATION: 1315
+
+About half of the participants were asked to make their decisions independently, based on the names of the bands, the titles of the songs, and their own judgment about the quality of the music. The other half could see how many times each song had been downloaded by other participants. The key question was whether that information would affect people’s decision to download.
+LOCATION: 1319
+
+Each participant in this second group was also randomly assigned to one of eight possible “worlds,” each of which evolved on its own; those in any particular world could see only the downloads of those in their own world.
+LOCATION: 1322
+
+There is not the slightest doubt. In all eight worlds, individuals were far more likely to download songs that had been previously downloaded in significant numbers, and far less likely to download songs that had not been as popular. For that reason, initial popularity greatly mattered; it could make all the difference between success and failure.
+NOTE: In YouTube most viewed will be viewed again. Remember this.
+LOCATION: 1326
+
+In many domains people are tempted to think, after the fact, that the success of a musician, actor, author, or politician was inevitable in light of his or her skills and characteristics. Beware of that temptation. Small interventions and even coincidences, at a key stage, can produce large variations in the outcome. Today’s hot singer is probably indistinguishable from dozens and even hundreds of equally talented performers whose names you’ve never heard. We can go further. Most of today’s political leaders are hard to distinguish from dozens or even hundreds of others whose candidacies badly fizzled. Much the same can be said for professors and for companies and products of all kinds. Social influences matter,
+LOCATION: 1359
+
+Identity: What People Like You Do
+LOCATION: 1404
+
+Of course, it is important to recognize that people’s identity, or their self-understanding, can greatly matter. If people in one part of the world are told that people in another part of the world are recycling, becoming vegetarians, or wearing masks, they could think: “Oh, I should do that too!” But they might also react this way: “Well, thank goodness I’m not like those people!” For choice architects who want to use social influences, a challenge is to work with, rather than against, people’s sense of who they are. That sense might have to do with nationality, culture, region, ethnicity, religion, politics, or a favorite team. We might even give it a name: identity-based cognition.
+LOCATION: 1404
+
+Consider Texas’s now classic and stunningly successful effort to reduce littering on its highways. State officials were frustrated with the failure of their well-funded and highly publicized advertising campaigns, which attempted to convince people that it was their civic duty to stop littering.
+LOCATION: 1410
+
+Explicitly targeting the unresponsive audience, the state enlisted popular Dallas Cowboys football players to participate in television ads in which they collected litter, smashed beer cans in their bare hands, and growled, “Don’t mess with Texas!” Other spots included popular singers, such as Willie Nelson.
+LOCATION: 1414
+
+Within the first year of the campaign, litter in the state had been reduced by a remarkable 29 percent. In its first six years, there was a 72 percent reduction in visible roadside litter.20 All this happened without the use of any mandates, threats, or coercion but rather via a creative nudge.
+LOCATION: 1420
+
+Pluralistic Ignorance
+LOCATION: 1431
+
+For those who want to enlist social influences, an important challenge, as well as a real opportunity, is pluralistic ignorance—that is, ignorance, on the part of all or most, about what other people think. We may follow a practice or a tradition not because we like it or even think it defensible, but merely because we think that most other people like it. Many social practices persist for this reason, which means a small shock, or nudge, can dislodge them.
+LOCATION: 1432
+
+Here’s the broader lesson: if people wrongly think that most people are committed to a long-standing social norm, a small nudge correcting that misperception can inaugurate large-scale change.
+LOCATION: 1454
+
+Social Norms as Nudges
+LOCATION: 1456
+
+The general lesson from this line of research is clear. If choice architects want to shift behavior and to do so with a nudge, they might be able to achieve this by simply informing people about what others are thinking and doing. Sometimes the thoughts and practices of others are surprising, and hence people are much affected by learning what they are.
+LOCATION: 1457
+
+In the context of tax compliance, an experiment conducted by officials in Minnesota produced big changes in behavior.23 Groups of taxpayers were given four kinds of information. Some were told that their taxes went to various good works, including education, police protection, and fire protection. Others were threatened with information about the risks of punishment for noncompliance. Others were given information about how they might get help if they were confused or uncertain about how to fill out their tax forms. Still others were just told that more than 90 percent of Minnesotans already complied in full with their obligations under the tax law. Only one of these interventions had a significant effect on tax compliance, and it was the last.
+LOCATION: 1461
+
+Using this strategy can save the government a lot of money, as illustrated by one of the first experiments conducted by the UK’s Behavioural Insights Team.
+LOCATION: 1472
+
+The winning formulation was to say, “Nine out of ten people in the UK pay their tax on time. You are currently in the very small minority of people who have not paid us yet.”
+LOCATION: 1477
+
+The impact of these letters was substantial, increasing the number of people paying within the first twenty-three days by as much as five percentage points.
+LOCATION: 1480
+
+The social influences that we have emphasized here can easily be enlisted by private and public choice architects. Both businesses and governments can use the power of social influences to promote many good (and bad) causes. In fact, they are doing that every day.
+LOCATION: 1539
+
+Part II THE TOOLS OF THE CHOICE ARCHITECT
+LOCATION: 1543
+
+We have seen that people perform amazing feats, but they also commit ditzy blunders. What’s the best response? Choice architecture and its effects cannot be avoided, and so the short answer is an obvious one. Call it the golden rule of libertarian paternalism: offer nudges that are most likely to help and least likely to inflict harm.fn11 A slightly longer answer is that people are most likely to need nudges when decisions require scarce attention, when decisions are difficult, when people do not get prompt feedback, and when they have trouble translating aspects of the situation into terms that they can easily understand. When people are in situations that are unfamiliar or rare, they might well need a nudge.
+LOCATION: 1547
+
+Fraught Choices
+LOCATION: 1559
+
+Suppose you are told that a group of people will have to make some choice in the near future. You are the choice architect. You are trying to decide how to design the choice environment, what kinds of nudges to offer, and how subtle the nudges should be. What do you need to know to design the best possible choice environment?
+LOCATION: 1560
+
+Spacing Out
+LOCATION: 1562
+
+Perhaps the single most common mistake any of us make is simply to forget something. As with self-control problems, we all know that we have limited attention and can be absentminded. That is why we make lists of what to do and what to buy at the store, and why we have calendar apps on our phones that send us reminders.
+LOCATION: 1563
+
+Although reminders have become ubiquitous and can work as terrific nudges, that does not mean there are not new ways of helping people keep track of their appointments and obligations. Here are just two examples.
+LOCATION: 1570
+
+Get out the vote:
+LOCATION: 1572
+
+For as long as anyone could remember, campaigns used the same formula to encourage turnout on election day. Voters who were judged likely to be supporters of their candidate would be called and asked whether they planned to vote (for that candidate). If the answer was yes, the call was over. That changed after the presidential election in the United States in 2008. Political scientist David Nickerson and behavioral scientist Todd Rogers had run some experiments during the primary season in which they posed a three-question follow-up to the initial inquiry about voting intentions: 1) “What time do you expect you’ll head to the polls?” 2) “Where do you expect you’ll be coming from?” and 3) “What do you think you’ll be doing before you head out?” The idea for these follow-up questions came from research by psychologist Peter Gollwitzer, who found that people were more likely to fulfill their goals if they had made explicit “implementation intentions.” The theory worked well in this situation. Prompting voters to make a plan increased turnout by 4.1 percentage points!
+LOCATION: 1572
+
+Checklists:
+LOCATION: 1582
+
+Although commercial pilots have flown hundreds or possibly thousands of times, they always go through a formal ritual before every takeoff, which is to go over a checklist of things that have to be ready before the plane leaves the gate.
+LOCATION: 1582
+
+One interesting key to the success of such programs is to authorize everyone in the room to remind absentminded offenders.
+LOCATION: 1587
+
+Benefits Now, Costs Later
+LOCATION: 1593
+
+We have seen that predictable problems arise when people must make decisions that test their capacity for self-control.
+LOCATION: 1594
+
+Self-control issues are most likely to arise when choices and their consequences are separated in time.
+LOCATION: 1595
+
+At one extreme are what might be called investment goods, such as exercising, flossing, and healthy eating (meaning, healthy foods, and not too much of them). For these goods the costs are borne immediately, but the benefits are delayed.
+LOCATION: 1596
+
+At the other extreme are what might be called temptation goods: smoking, drinking a lot of alcohol, binge-watching old episodes of Friends, and eating jumbo chocolate doughnuts are in this category. We get the pleasure now and suffer the consequences later.
+LOCATION: 1599
+
+Most people do not need any special encouragement to eat another brownie, but they could use some help exercising more.
+LOCATION: 1604
+
+Degree of Difficulty
+LOCATION: 1605
+
+Of course, we learn to cope with the harder problems.
+LOCATION: 1608
+
+But many problems in life are quite difficult, and sometimes no technology as easy as a spellchecker is available to help. We are more likely to need more help picking the right mortgage than choosing the right loaf of bread.
+LOCATION: 1610
+
+Frequency
+LOCATION: 1611
+
+Even hard problems become easier with practice; solving them can even become automatic.
+LOCATION: 1612
+
+Unfortunately, some of life’s most important decisions do not come with many opportunities to practice.
+LOCATION: 1615
+
+This is a book about libertarian paternalism. At this stage we just want to stress that difficult and rare choices are good candidates for nudges.
+LOCATION: 1623
+
+Feedback
+LOCATION: 1624
+
+Even practice does not make perfect if people lack good opportunities for learning. Learning is most likely if people get immediate, clear feedback after each try.
+LOCATION: 1624
+
+Long-term processes rarely provide good feedback. Someone can eat a high-fat diet for years without having any strong warning signs until they have a heart attack. When feedback is ineffective, we may benefit from a nudge.
+LOCATION: 1632
+
+Knowing What You Like
+LOCATION: 1634
+
+It is particularly hard for people to make good decisions when they have trouble translating the choices they face into the experiences they will have.
+LOCATION: 1643
+
+When people have a hard time predicting how their choices will end up affecting their lives, they have less to gain from having numerous options and perhaps even from choosing for themselves. A nudge might be welcomed.
+LOCATION: 1654
+
+Markets: A Mixed Verdict
+LOCATION: 1656
+
+The discussion thus far suggests that people may most need a good nudge for choices that require memory or have delayed effects; those that are difficult, are infrequent, and offer poor feedback; and those for which the relationship between choice and experience is ambiguous. A natural question is whether free markets can solve people’s problems, even under such circumstances. Often market competition will do a lot of good. But can markets perform miracles? We should always be suspicious of miracles.
+LOCATION: 1657
+
+With respect to health, romance, and money, it is not at all hard to exploit people’s lack of information. If one of those things is at stake, companies have a strong incentive to exploit behavioral biases, including availability, unrealistic optimism, and anchoring. And they certainly try to create informational cascades. Sometimes they succeed.
+LOCATION: 1691
+
+There is a general lesson here. Much of the time, more money can made by catering to human frailties than by helping people to avoid them. Bars make a lot more money than Alcoholics Anonymous. So, if Humans have problems, they might benefit from a well-chosen nudge.
+LOCATION: 1694
+
+Choice Architecture
+LOCATION: 1697
+
+Design is not just what it looks like and feels like. Design is how it works. —Steve Jobs
+LOCATION: 1698
+
+Our primary mantra is a simple one: if you want to encourage some action or activity, Make It Easy.
+LOCATION: 1741
+
+For people, Lewin argued that similarly tiny factors can create surprisingly strong inhibitors to behavior that people want to take. Often we can do more to facilitate good behavior by removing some small obstacle than by trying to shove people in a certain direction.
+LOCATION: 1745
+
+An early illustration of Lewin’s idea was produced by Howard Leventhal, Robert Singer, and Susan Jones on the campus of Yale University.3 The subjects were Yale seniors who were given some persuasive education about the risks of tetanus and the importance of going to the health center to receive an inoculation. Most of the students were convinced by the lecture and said that they planned to go get the shot, but these good intentions did not lead to much action. Only 3 percent actually went and got the shot. Other subjects were given the same lecture but were also given a copy of a campus map with the location of the health center circled. They were then asked to look at their weekly schedules, make a plan for when they would go and get the shot, and look at the map and decide what route they would take. With these nudges, 28 percent of the students managed to show up and get their tetanus shot. Notice that this manipulation was very subtle. The students were all seniors and surely knew where the health center was located (Yale is not a huge campus), and they were not given an actual appointment. Still, nine times as many students got shots, illustrating the potential power of channel factors. This is the same principle that was used in the get-out-the-vote study mentioned earlier.
+LOCATION: 1748
+
+So, if you remember just one thing from this book, let it be this. If you want to encourage people to do something, Make It Easy.
+LOCATION: 1758
+
+Defaults: Padding the Path of Least Resistance
+LOCATION: 1760
+
+For reasons we have discussed, many people will take whatever option requires the least effort, or the path of least resistance. Recall the discussion of inertia, status quo bias, and the “yeah, whatever” heuristic. All these forces imply that if, for a given choice, there is a default option—an option that will prevail if the chooser does nothing—then we can usually expect a large number of people to end up with that option, whether or not it is good for them. And as we have also stressed, these behavioral tendencies toward doing nothing will be reinforced if the default option comes with some implicit or explicit suggestion that it represents the normal or the recommended course of action.
+LOCATION: 1761
+
+We should reiterate that defaults are not always sticky, and we will see examples of that later. For example, people will be more likely to override the default if the outcome is obviously bad and the cost of opting out is low.
+LOCATION: 1783
+
+If people know their preferences, and know that they dislike the outcome that is embedded in the default, they will probably change it.
+LOCATION: 1791
